@@ -12,7 +12,6 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 
 HEADERS
-
 #Header one#
 ##Header two
 ###Header three
